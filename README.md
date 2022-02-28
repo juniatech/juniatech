@@ -26,5 +26,7 @@
   <a href="https://www.linkedin.com/in/juniatech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.behance.net/juniacamargo/projects" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/behance-3-logo-png-transparent.png" height="28" width="80" target="_blank"></a>  
   
+  ##
+  
   ![Snake animation](https://github.com/juniatech/juniatech/blob/output/github-contribution-grid-snake.svg)
 </div>  
