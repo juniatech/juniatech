@@ -27,6 +27,3 @@
   <a href="https://www.behance.net/juniacamargo/projects" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/behance-3-logo-png-transparent.png" height="28" width="80" target="_blank"></a>  
   
   ##
-  
-  ![Snake animation](https://github.com/juniatech/juniatech/blob/output/github-contribution-grid-snake.svg)
-</div>  
