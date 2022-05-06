@@ -1,8 +1,7 @@
-## Hi, I am Junia Camargo!🌙
 <div align="center">
   <a href="https://github.com/juniatech">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juniatech&show_icons=true&theme=github_dark&border_radius=8%"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniatech&layout=compact&langs_count=8&theme=github_dark&border_radius=8%"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=juniatech&show_icons=true&theme=github_dark&border_radius=8%"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniatech&layout=compact&langs_count=8&theme=github_dark&border_radius=8%"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -20,6 +19,9 @@
     
 </div>
   
+## Olá, eu sou a Júnia!🌙
+###### Estudante de Engenharia de Computação | Front-end | Desenvolvimento de Softwares | Design UI/UX. Formação (previsto): Dez/2022. Experiência com: Atendimento e Suporte ao cliente, Manutenção de equipamentos de Hardware e Redes, Gestão de trafego, Marketing, Mídias Sociais, Banco de dados, Metodologias ágeis, Desenvolvimento de Design de Interfaces e Experiência ao Usuário. Cofundadora do projeto: Mulheres UNIVESP que visa inspirar, auxiliar e educar mulheres no ramo profissional e acadêmico, por meio de conhecimentos em computação, ferramentas de capacitação profissional e incentivar a inclusão de mulheres na área de computação e geral. Conhecimentos em Desenvolvimento de Softwares e Front-end, HTML, CSS, Java Script, Java, Python, Lua, Figma e Adobe XD, Google Analytics, AWS-Engenharia de Operações/Suporte - Cloud Computing 101.
+
   ## 
   
 <div> 
@@ -28,3 +30,4 @@
   <a href="https://www.behance.net/juniacamargo/projects" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/behance-3-logo-png-transparent.png" height="28" width="80" target="_blank"></a>  
   
   ##
+  
