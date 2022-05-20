@@ -1,7 +1,7 @@
-  
+
   ## Olá, eu sou a Júnia!🌙<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="junia Camargo">
   
-###### Estudante de Engenharia de Computação | Front-end | Desenvolvimento de Softwares | Design UI/UX. Formação (previsto): Dez/2022. Experiência com: Atendimento e Suporte ao cliente, Manutenção de equipamentos de Hardware e Redes, Gestão de trafego, Marketing, Mídias Sociais, Banco de dados, Metodologias ágeis, Desenvolvimento de Design de Interfaces e Experiência ao Usuário. Cofundadora do projeto: Mulheres UNIVESP que visa inspirar, auxiliar e educar mulheres no ramo profissional e acadêmico, por meio de conhecimentos em computação, ferramentas de capacitação profissional e incentivar a inclusão de mulheres na área de computação e geral. Conhecimentos em Desenvolvimento de Softwares e Front-end, HTML, CSS, Java Script, Java, Python, Lua, Figma e Adobe XD, Google Analytics, AWS-Engenharia de Operações/Suporte - Cloud Computing 101.
+#### Estudante de Engenharia de Computação | Front-end | Desenvolvimento de Softwares | Design UI/UX. Formação (previsto): Dez/2022. Experiência com: Atendimento e Suporte ao cliente, Manutenção de equipamentos de Hardware e Redes, Gestão de trafego, Marketing, Mídias Sociais, Banco de dados, Metodologias ágeis, Desenvolvimento de Design de Interfaces e Experiência ao Usuário. Cofundadora do projeto: Mulheres UNIVESP que visa inspirar, auxiliar e educar mulheres no ramo profissional e acadêmico, por meio de conhecimentos em computação, ferramentas de capacitação profissional e incentivar a inclusão de mulheres na área de computação e geral. Conhecimentos em Desenvolvimento de Softwares e Front-end, HTML, CSS, Java Script, Java, Python, Lua, Figma e Adobe XD, Google Analytics, AWS-Engenharia de Operações/Suporte - Cloud Computing 101.
 
   ## 
   
@@ -14,8 +14,8 @@
   ##
 
   <a href="https://github.com/juniatech">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=juniatech&show_icons=true&theme=github_dark&border_radius=8%"/>
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniatech&layout=compact&langs_count=8&theme=github_dark&border_radius=8%"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=juniatech&show_icons=true&theme=github_dark&border_radius=8%"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniatech&layout=compact&langs_count=8&theme=github_dark&border_radius=8%"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -32,3 +32,8 @@
   <img align="center" alt="junia-node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="junia-c" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />   
 </div>
+  
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
