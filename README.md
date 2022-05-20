@@ -32,8 +32,3 @@
   <img align="center" alt="junia-node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="junia-c" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />   
 </div>
-  
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
