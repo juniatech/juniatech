@@ -1,5 +1,5 @@
 
-  ## Olá, eu sou a Júnia!🌙<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="junia Camargo">
+  ## Olá, eu sou a Júnia! <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="junia Camargo">
   
 #### Estudante de Engenharia de Computação | Front-end | Desenvolvimento de Softwares | Design UI/UX. Formação (previsto): Dez/2022. Experiência com: Atendimento e Suporte ao cliente, Manutenção de equipamentos de Hardware e Redes, Gestão de trafego, Marketing, Mídias Sociais, Banco de dados, Metodologias ágeis, Desenvolvimento de Design de Interfaces e Experiência ao Usuário. Cofundadora do projeto: Mulheres UNIVESP que visa inspirar, auxiliar e educar mulheres no ramo profissional e acadêmico, por meio de conhecimentos em computação, ferramentas de capacitação profissional e incentivar a inclusão de mulheres na área de computação e geral. Conhecimentos em Desenvolvimento de Softwares e Front-end, HTML, CSS, Java Script, Java, Python, Lua, Figma e Adobe XD, Google Analytics, AWS-Engenharia de Operações/Suporte - Cloud Computing 101.
 
