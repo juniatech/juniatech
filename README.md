@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/juniatech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/juniacamargo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/juniacamargo/projects" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/behance-3-logo-png-transparent.png" height="28" width="80" target="_blank"></a>  
-  <a href = "https://discord.com/channels/Junia%20Camargo#1629"><img width="100" height="28" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href = "discordapp.com/users/Junia Camargo#1629"><img width="100" height="28" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   
   ##
 
