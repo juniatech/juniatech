@@ -32,3 +32,13 @@
   <img align="center" alt="junia-node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="junia-c" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />   
 </div>
+  
+  ##
+
+  <div align="center">
+  <a href="https://open.spotify.com/user/bt5ihpkvx310165jcivmi1aa9">
+    <img src="https://tm.ibxk.com.br/2020/11/30/30095701251023.jpg?ims=1120x420" alt="Spotify recently played" height="110" width="310" />
+  </a>
+</div>
+
+###
