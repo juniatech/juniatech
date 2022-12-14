@@ -31,6 +31,10 @@
   <img align="center" alt="junia-xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
   <img align="center" alt="junia-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="junia-node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="junia-c" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />   
+  <img align="center" alt="junia-c" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />  
+  <img align="center" alt="junia-postman" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
+  <img align="center" alt="junia-cypress" height="30" width="40" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" />
+  <img align="center" alt="junia-mocha" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" />
+  <img align="center" alt="junia-chai" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/chai.svg" />
 </div>
   
