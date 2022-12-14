@@ -20,6 +20,8 @@
 </div>
 
   <div style="display: inline_block"><br>
+  <img align="center" alt="junia-vscode" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+  <img align="center" alt="junia-gitbash" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" />
   <img align="center" alt="junia-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="junia-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="junia-lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
@@ -36,6 +38,6 @@
   <img align="center" alt="junia-cypress" height="30" width="40" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" />
   <img align="center" alt="junia-mocha" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" />
   <img align="center" alt="junia-chai" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/chai.svg" />
-  <img align="center" alt="junia-gitbash" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" />
+  
 </div>
   
