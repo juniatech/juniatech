@@ -36,5 +36,6 @@
   <img align="center" alt="junia-cypress" height="30" width="40" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" />
   <img align="center" alt="junia-mocha" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" />
   <img align="center" alt="junia-chai" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/chai.svg" />
+  <img align="center" alt="junia-gitbash" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" />
 </div>
   
